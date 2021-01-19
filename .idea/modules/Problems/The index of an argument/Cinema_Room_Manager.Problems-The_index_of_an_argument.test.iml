@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Problems-Out_of_bounds_:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/Out of bounds_" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Cinema_Room_Manager" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Problems-The_index_of_an_argument:test" external.linked.project.path="$MODULE_DIR$/../../../../Problems/The index of an argument" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="Cinema_Room_Manager" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../Problems/Out of bounds_/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../Problems/The index of an argument/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../Problems/Out of bounds_/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../Problems/Out of bounds_/test" />
+    <content url="file://$MODULE_DIR$/../../../../Problems/The index of an argument/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../Problems/The index of an argument/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Cinema_Room_Manager.Problems-Out_of_bounds_.main" />
+    <orderEntry type="module" module-name="Cinema_Room_Manager.Problems-The_index_of_an_argument.main" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.assertj:assertj-swing-junit:3.8.0" level="project" />
     <orderEntry type="library" name="Gradle: com.github.stefanbirkner:system-rules:1.19.0" level="project" />
@@ -27,5 +27,5 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.8.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Cinema_Room_Manager.Problems-Out_of_bounds_.main" />
+  <component name="TestModuleProperties" production-module="Cinema_Room_Manager.Problems-The_index_of_an_argument.main" />
 </module>
